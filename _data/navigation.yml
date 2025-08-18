@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Japan"
+    url: /tags/#japan
+  - title: "About"
+    url: /about/
