@@ -1,0 +1,44 @@
+title: "My Travel Itineraries"
+description: "Practical, copyable trip plans"
+url: "https://<your-username>.github.io"
+baseurl: "" # keep empty for user site
+
+theme: null
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Build plugins
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Author/profile (shows in sidebar/widgets)
+author:
+  name: "<Your Name>"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "I write field-tested itineraries."
+
+# Minimal Mistakes global options
+minimal_mistakes_skin: "default"
+paginate: 5
+paginate_path: "/page:num/"
+
+# Defaults so posts use a nice layout with TOC
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      toc: true
+      toc_sticky: true
+      comments: false  # turn on later site-wide or per post
+
+# Nav (we’ll wire this file below)
+collections:
+  posts:
+    output: true
