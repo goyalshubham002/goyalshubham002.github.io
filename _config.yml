@@ -14,8 +14,8 @@ plugins:
 
 # Author/profile (shows in sidebar/widgets)
 author:
-  name: "<Your Name>"
-  avatar: "/assets/images/avatar.jpg"
+  name: "Shubham Goyal"
+  avatar: "_data/image"
   bio: "I write field-tested itineraries."
 
 # Minimal Mistakes global options
