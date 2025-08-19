@@ -1,7 +1,7 @@
 ---
-title: "Nikkō Travel Guide: A 1-Day Itinerary from Tokyo"
-categories: [Japan, Nikko]
-tags: [japan, itinerary, tokyo, day-trip]
+title: "Nikkō Travel Guide: A 3-Days Itinerary from Tokyo"
+categories: [Japan, Nikko, Nagano]
+tags: [japan, itinerary, tokyo, day-trip, nikko, nagano]
 header:
   image: /assets/images/nikko/shinkyo-bridge.jpg
   caption: "Shinkyo Bridge, Nikkō"
