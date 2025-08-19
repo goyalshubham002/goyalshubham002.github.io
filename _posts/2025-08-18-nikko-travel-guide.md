@@ -12,7 +12,7 @@ A realistic, low-stress 3-Days, 2-Night plan covering Haritage area - Toshogu Sh
 
 ## Day 1 : Okunikko 
   ## Morning 
-- **Travel from Tokyo to Nikko** - Catch Limited Express train run by Tobu at **07:50** Asakusa → Tobu-Nikkō (approx 2h). We caugth Spacia X at 07:50AM from Asakusa to Tobu Nikko. This is most time saving option with little premium. Of course, you can choose to travel by Bus or Regular train. 
+- **Travel from Tokyo to Nikko** - Catch Limited Express train run by Tobu at **07:50** Asakusa → Tobu-Nikkō (approx 2h). We caugth Spacia X at 07:50AM from Asakusa to Tobu Nikko. This is most time saving option with little premium. Of course, you can choose to travel by Bus or Regular train. All seats are reserved in Limited express so book in advance. 
 - Once arrived at Tobu nikko station, have refreshment & drop your luggage to coin locker inside station. please mind that for large sized luggage you need to use coin lockers on the platform itself as coin lockers outside platform can accomodate small baggage only. 
 - Next catch bus to Chuzenji Onsen area. Bus stop is just in front of station. I recommend to have bus time table printed paper from tourist center. Catch the bus and get off at Akechidira ropeway. please mind that if you go to akechidira ropeway then do it in outward journey because when coming back from chuzenji onsen to tobu nikko station, bus does not stop at the repoway station. 
 - Enjoy scenic beuty and purchase Round Trip Akechidira Ropeway Tickets. You will get 100 Yen discount if showing Nikko All area pass. Time to be spent ~40 mins
@@ -55,7 +55,9 @@ On last day, lets keep the itinerary ligt and spare some free time as well. Kanm
 - Shinkyo Bridge short stop.
 
 ## Importan Links 
--  Nikko pass : https://www.tobu.co.jp/en/ticket/nikko/all.html
+- Nikko pass : https://www.tobu.co.jp/en/ticket/nikko/all.html
+- Limited express Booking : https://tobu-japantrip-tickets.com
+- Steam Locomotive : https://www.tobu.co.jp/en/sightseeing/nikko_kinugawa/sl/
 - Stay Suggeation : https://www.booking.com/Share-vDh5wY 
                    https://maps.app.goo.gl/uUh2JmaEBpzLZDZt5?g_st=ipc
 - Dining Suggestions : Indian Restaurant Taj Nikko - https://maps.app.goo.gl/H9NAxxWTkYDXEVzz9?g_st=ipc
