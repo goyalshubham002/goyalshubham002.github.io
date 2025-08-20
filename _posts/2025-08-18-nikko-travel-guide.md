@@ -52,12 +52,15 @@ On last day, lets keep the itinerary ligt and spare some free time as well.  and
 - If you want to visit Shinkyo bridge one more time, do it when you have some spare time in Day 3.
 
 ## Important Links 
-- Nikko pass : https://www.tobu.co.jp/en/ticket/nikko/all.html
-- Limited express Booking : https://tobu-japantrip-tickets.com
-- Steam Locomotive : https://www.tobu.co.jp/en/sightseeing/nikko_kinugawa/sl/
-- Stay Suggeation : https://www.booking.com/Share-vDh5wY 
-                   https://maps.app.goo.gl/uUh2JmaEBpzLZDZt5?g_st=ipc
-- Dining Suggestions : Indian Restaurant Taj Nikko - https://maps.app.goo.gl/H9NAxxWTkYDXEVzz9?g_st=ipc
+- [Nikko Pass](https://www.tobu.co.jp/en/ticket/nikko/all.html)
+- [Limited Express Booking](https://tobu-japantrip-tickets.com)
+- [Steam Locomotive](https://www.tobu.co.jp/en/sightseeing/nikko_kinugawa/sl/)
+- Stay Suggestions:
+  - [Booking.com](https://www.booking.com/Share-vDh5wY)
+  - [Google Maps](https://maps.app.goo.gl/uUh2JmaEBpzLZDZt5?g_st=ipc)
+- Dining Suggestions:
+  - [Indian Restaurant Taj Nikko](https://maps.app.goo.gl/H9NAxxWTkYDXEVzz9?g_st=ipc)
+
 
 ## Cost of the trip per person 
 - Nikko All Area Pass - 8000 Yen
