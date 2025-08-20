@@ -16,12 +16,12 @@ A realistic, low-stress 3-Days, 2-Night plan covering Haritage area - Toshogu Sh
 - Once arrived at Tobu nikko station, have refreshment & drop your luggage to coin locker inside station. please mind that for large sized luggage you need to use coin lockers on the platform itself as coin lockers outside platform can accomodate small baggage only. 
 - Next catch bus to Chuzenji Onsen area. Bus stop is just in front of station. I recommend to have bus time table printed paper from tourist center. Catch the bus and get off at Akechidira ropeway. please mind that if you go to akechidira ropeway then do it in outward journey because when coming back from chuzenji onsen to tobu nikko station, bus does not stop at the repoway station. 
 - Enjoy scenic beuty and purchase Round Trip Akechidira Ropeway Tickets. You will get 100 Yen discount if showing Nikko All area pass. Time to be spent ~40 mins
- ## Noon 
+  ## Noon 
 - Go to bus stop and get bus bound for Chuenzi Onsen and get off at Chuzenji Onsen Station.
 - Walk upto Kegaon Falls ~ Short walk from bus station. Time to be spent ~ 30 mins 
 - Have lunch Nearby 
 - Next walk to Chuzenji Sightseeing Cruise. Go to ticket counter and purchase ticket. If you have Nikko All area pass then get your ticket is covered. We took the cruise to cover round trip around Chueznji Stop. Free hop on hop off at any stop. Time to be spent ~ 1:30 mins 
- ## Evening 
+  ## Evening 
 - Take Bus bound for Tobu Nikko station and get off at Shinkyo bridge bus stop. Next we will explore National Heritage Area 
 - Walk upto Toshugu Shrine, which is one of most admired in Japan. It enshrines First shogun of Japan. The design is stunning and it features learings too - one of famous is 3 monkeys depicting - Dont see Bad, Dont speak bad and Dont listen bad. This philosophy can be found is many other places of world. Mahatma Gandhi also taught the same in his teachings. Another most beautiful thing is - Not running for perfection. You will find a piller structure gate which is willingly made imperfect and out of sync. It is considered that not being perfect will save it from bad things. Time to be spent ~ 1:30 mins (Usually there is long queue for ticket purchase)
 - Explore Futarasan shrine, Rinnoji Temple and Shinkyo Bridge. if you are tired then call it day. We visited Tsogu shrine and Shinkyo bridge only and skipped visiting futarasan shrine and Rinnoji temple.  
@@ -45,10 +45,7 @@ On last day, lets keep the itinerary ligt and spare some free time as well.  and
 - Take Bus from Tobu Nikko or JR Nikko station to Kirufuri Falls and get off at Kirufuri No Taki station. Walk upto Kirufuri Waterfall and enjoy the nature. Time to be spent ~ 1 hours. You can take next bus bound from Tobu Nikko. Check the bus timetable. We covered it within 30 mins and took the bus back to station. We took first bus from JR nikko station and were back at station in 1.5 hours. 
 - Next catch train from Tobu Nikko station to shimo imachi and then change train bound for Kinugawa onsen. Get off at Tobu world square station. the place is in front of station. Purchase ticket and if you have Nikko Wide area pass then you can get 1000¥ discount. Now enjoy world trip and the miniatures from round the globe. 
 - walk back to tobu world square station and catch train bound for shimo imaichi. Then change train for Tobu Nikko station. 
-- Have late lunch. You can go for shopping nearby station area before taking train back to Asakusa. 
-
-
-## Extra 
+- Have late lunch. You can go for shopping nearby station area before taking train back to Asakusa.  
 - If you want to visit Shinkyo bridge one more time, do it when you have some spare time in Day 3.
 
 ## Important Links 
@@ -56,8 +53,7 @@ On last day, lets keep the itinerary ligt and spare some free time as well.  and
 - [Limited Express Booking](https://tobu-japantrip-tickets.com)
 - [Steam Locomotive](https://www.tobu.co.jp/en/sightseeing/nikko_kinugawa/sl/)
 - Stay Suggestions:
-  - [Booking.com](https://www.booking.com/Share-vDh5wY)
-  - [Google Maps](https://maps.app.goo.gl/uUh2JmaEBpzLZDZt5?g_st=ipc)
+  - [Stay House Arai - Booking](https://www.booking.com/Share-vDh5wY) [Google Maps](https://maps.app.goo.gl/uUh2JmaEBpzLZDZt5?g_st=ipc)
 - Dining Suggestions:
   - [Indian Restaurant Taj Nikko](https://maps.app.goo.gl/H9NAxxWTkYDXEVzz9?g_st=ipc)
 
@@ -66,7 +62,6 @@ On last day, lets keep the itinerary ligt and spare some free time as well.  and
 - Nikko All Area Pass - 8000 Yen
 - Limited Express Charges (Inbound and Outbound Journey) - 4000 Yen
 - Stay - 12000 Yen
-- 
 
 
-> Practical tips: transport cards may not work in Kinugawa area buses so carry cash, check weather window, bus timetable map.
+> Practical tips: transport cards may not work in Kinugawa area buses so carry cash, check weather window, grab bus timetable map.
