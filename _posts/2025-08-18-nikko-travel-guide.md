@@ -1,5 +1,11 @@
 ---
 title: "Nikkō Travel Guide: A 3-Days Itinerary from Tokyo"
+categories: [Japan, Nikko, Nagano]
+tags: [japan, itinerary, tokyo, day-trip, nikko, nagano]
+header:
+  image: /image/nikko-blog/shinkyo-bridge.jpg
+  caption: "Shinkyo Bridge, Nikkō"
+---
 <!-- Header Image Gallery -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-bottom: 20px;">
 
@@ -10,13 +16,6 @@ title: "Nikkō Travel Guide: A 3-Days Itinerary from Tokyo"
   <img src="../image/nikko-blog/kinugawa-bridge.jpeg" alt="Kinutateiwaotsuri Bridge" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
 
 </div>
-
-categories: [Japan, Nikko, Nagano]
-tags: [japan, itinerary, tokyo, day-trip, nikko, nagano]
-header:
-  image: /image/nikko-blog/shinkyo-bridge.jpg
-  caption: "Shinkyo Bridge, Nikkō"
----
 
 ## Overview
 A realistic, low-stress 3-Days, 2-Night plan covering Heritage area - Toshogu Shrine, Shinkyo Bridge, and Kegon Falls, Okunikko and Kinugawa area. I travelled with my wife and during our trip we used public transport and covered some off-beat destinations. We purchased Nikko All area pass which costed 8000¥ per person and that covered - round trip from Asakusa to Tobu Nikko, Nikko area buses and trains transport, Chuzenji Sightseeing Cruise, and some discounts at some places. 
