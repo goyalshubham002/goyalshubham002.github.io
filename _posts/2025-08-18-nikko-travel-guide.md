@@ -9,11 +9,11 @@ header:
 <!-- Header Image Gallery -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-bottom: 20px;">
 
-  <img src="../image/nikko-blog/kanmangafuchi.jpeg" alt="Kanmangafuchi Abyss" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
-  <img src="../image/nikko-blog/Ryoukyo-1.jpeg" alt="Ryoukyo" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
-  <img src="../image/nikko-blog/Ryoukyo-2.jpeg" alt="Ryūokyō Gorge" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
-  <img src="../image/nikko-blog/Ryoukyo-3.jpeg" alt="Ryoukyo Station" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
-  <img src="../image/nikko-blog/kinugawa-bridge.jpeg" alt="Kinutateiwaotsuri Bridge" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
+  <img src="/image/nikko-blog/kanmangafuchi.jpeg" alt="Kanmangafuchi Abyss" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
+  <img src="/image/nikko-blog/Ryoukyo-1.jpeg" alt="Ryoukyo" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
+  <img src="/image/nikko-blog/Ryoukyo-2.jpeg" alt="Ryūokyō Gorge" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
+  <img src="/image/nikko-blog/Ryoukyo-3.jpeg" alt="Ryoukyo Station" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
+  <img src="/image/nikko-blog/kinugawa-bridge.jpeg" alt="Kinutateiwaotsuri Bridge" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
 
 </div>
 
