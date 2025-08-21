@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Nikkō Travel Guide: A 3-Days Itinerary from Tokyo"
 categories: [Japan, Nikko, Nagano]
 tags: [japan, itinerary, tokyo, day-trip, nikko, nagano]
