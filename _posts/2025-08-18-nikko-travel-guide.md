@@ -27,7 +27,7 @@ A realistic, low-stress 3-Days, 2-Night plan covering Heritage area - Toshogu Sh
 - Explore Futarasan shrine, Rinnoji Temple and Shinkyo Bridge. if you are tired then call it day. We visited Toshogu shrine and Shinkyo bridge only and skipped visiting futarasan shrine and Rinnoji temple.  
 - Go back to hotel, have dinner, and relax
 
-## Day 2: Kinugawa 
+## Day 2: Kanmangafuchi Abyss and Kinugawa 
 On Day 2, we will explore scenic beauty of Nikko, including some falls and Kinugawa onsen area. This covers off beat destinations and not densely populated with tourists. Kanmangafuchi Abyss is offbeat destination with beautiful view. 
 - Start early morning to enjoy breathtaking view of Kanmangafuchi Abyss. Get bus from Tobu Nikko/JR Nikko station to Nishisando iriguchi bus stop. From this bus stop the destination is ~1 KM by walk. We took first bus at 6:05 and it was good decision. 
 - This place is dedicated for Buddhist deities for peace and the sound of river makes up best music. It is a gem in early morning.  
@@ -38,7 +38,7 @@ On Day 2, we will explore scenic beauty of Nikko, including some falls and Kinug
 - Go back to Ryuokyo station, purchase base fare ticket for Shin Fujiwara & take train back to shin Fujiwara. Change train from shin Fujiwara to Shimo imachi and then to Tobu Nikko.
 - Call it a day, relax and go back to hotel. Have dinner and enjoy.  
 
-## Day 3: Tobu World Square and Kanmangafuchi Abyss 
+## Day 3: Kirufuri Waterfall and Tobu World Square  
 On last day, let’s keep the itinerary relaxed and spare some free time as well.  and Tobu world square is place where there are famous monuments across the globe. This has Europe section, America section, Asia Section and Japan section. 
 - Take Bus from Tobu Nikko or JR Nikko station to Kirufuri Falls and get off at Kirufuri No Taki station. Walk upto Kirufuri Waterfall and enjoy nature. Time to be spent ~ 1 hour. You can take next bus bound from Tobu Nikko. Check the bus timetable. We covered it within 30 mins and took the bus back to station. We took first bus from JR nikko station and were back at station in 1.5 hours. 
 - Next catch train from Tobu Nikko station to shimo imachi and then change train bound for Kinugawa onsen. Get off at Tobu world square station. The place is in front of station. Purchase ticket and if you have Nikko Wide area pass then you can get 1000¥ discount. Now enjoy world trip and miniatures from round the globe. 
