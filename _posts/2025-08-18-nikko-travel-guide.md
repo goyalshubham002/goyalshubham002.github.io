@@ -39,11 +39,13 @@ A realistic, low-stress 3-Days, 2-Night plan covering Heritage area - Toshogu Sh
 - Once arrived at Tobu nikko station, have refreshment & drop your luggage to coin locker inside station. Please remember that for large sized luggage you need to use coin lockers on the platform itself as coin lockers outside platform can accommodate small baggage only. 
 - Next catch bus to Chuzenji Onsen area. Bus stop is just in front of station. I recommend having bus time table printed paper from tourist center. Catch the bus and get off at Akechidaira ropeway. Please mind that if you go to Akechidaira ropeway then do it in outward journey because when coming back from Chuzenji onsen to tobu nikko station, bus does not stop at the ropeway station. 
 - Enjoy scenic beauty and purchase Round Trip Akechidaira Ropeway Tickets. You will get 100 Yen discount if you show Nikko All area pass. Time to be spent ~40 mins.
+
   **Noon**
 - Go to bus stop and get bus bound for Chuenzi Onsen and get off at Chuzenji Onsen Station.
 - Walk upto Kegaon Falls ~ Short Walk from bus station. Time to be spent ~ 30 mins. 
 - Have lunch Nearby 
 - Next walk to Chuzenji Sightseeing Cruise. Go to ticket counter and purchase ticket. If you have Nikko All area pass, your ticket is already covered. We took the cruise to cover round trip around Chueznji Stop. Free hop on - hop off at any stop. Time to be spent ~ 1.5 hrs. 
+
   **Evening**
 - Take Bus bound for Tobu Nikko station and get off at Shinkyo bridge bus stop. Next, we will explore National Heritage Area 
 - Walk upto Toshogu Shrine, which is one of most admired in Japan. It enshrines First shogun of Japan. The design is stunning, and it features three wise monkeys learning too - depicting philosophy - see no evil, hear no evil and speak no evil. [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) also adopted this as moral guidelines. Among the shrine’s many wonders, there is a unique gate pillar that appears out of sync. This wasn’t a mistake — it was done on purpose, following the tradition of **Sakasabashira** - deliberate imperfection. The idea that seeking absolute perfection invites misfortune, while embracing imperfection ensures balance and protection. Time to be spent ~ 1 hour (Usually there is long queue for ticket purchase)
