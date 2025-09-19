@@ -6,13 +6,28 @@ header:
   image: /image/nikko-blog/Shinkyo.JPG
   caption: "Shinkyo Bridge, Nikkō"
 ---
+<style>
+.page__hero img {
+  max-height: 350px !important;
+  object-fit: cover !important;
+  width: 100%; /* ensures no overflow */
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .page__hero img {
+    max-height: 220px !important;
+  }
+}
+</style>
+
 <!-- Header Image Gallery -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-bottom: 20px;">
-
-  
-  
-  
-
+  <img src="/image/nikko-blog/kinugawa-bridge.jpeg" alt="Kinutateiwaotsuri Bridge" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
+  <img src="/image/nikko-blog/kanmangafuchi.jpeg" alt="Kanmangafuchi Abyss" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
+  <img src="/image/nikko-blog/Ryoukyo-1.jpeg" alt="Ryoukyo" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
+  <img src="/image/nikko-blog/Ryoukyo-2.jpeg" alt="Ryūokyō Gorge" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
+  <img src="/image/nikko-blog/Ryoukyo-3.jpeg" alt="Ryoukyo Station" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
 </div>
 
 ## Overview
@@ -39,15 +54,10 @@ A realistic, low-stress 3-Days, 2-Night plan covering Heritage area - Toshogu Sh
 On Day 2, we will explore scenic beauty of Nikko, including some falls and Kinugawa onsen area. This covers off beat destinations and not densely populated with tourists. Kanmangafuchi Abyss is offbeat destination with beautiful view. 
 - Start early morning to enjoy breathtaking view of Kanmangafuchi Abyss. Get bus from Tobu Nikko/JR Nikko station to Nishisando iriguchi bus stop. From this bus stop the destination is ~1 KM by walk. We took first bus at 6:05 and it was good decision. 
 - This place is dedicated for Buddhist deities for peace and the sound of river makes up best music. It is a gem in early morning.
-  <img src="/image/nikko-blog/kanmangafuchi.jpeg" alt="Kanmangafuchi Abyss" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
 - After spending some time, walk back to bus stop and Have breakfast (go back to hotel if staying nearby to Get ready before next destination).
 - Catch train from Tobu Nikko station to Shimo imaichi, we took train at **09:52AM** from Tobu Nikko Station. From Shimo-imachi take Train bound for Shin Fujiwara station and get off at Kinugawa onsen. Now go for Kinutateiwaotsuri Bridge which is short walk away from Kinugawa onsen station. There is free footbath outside of Kinugawa Onsen station as well. Soak your feet if you want.
-  <img src="/image/nikko-blog/kinugawa-bridge.jpeg" alt="Kinutateiwaotsuri Bridge" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
 - From Kinugawa onsen, take the train to Ryuokyo (Take Revaty Aizu Train). Although this train is Limited express & all seats are reserved but you can board it from Kinugawa station and Only Base fare is charged. 
 - Ryuokyo station is beautiful amidst nature. From station Walk upto Nijimi Waterfall, the view is mesmerizing. If you want to spend more time there and hike, then go to Musasabi bridge but did not go there.
-  <img src="/image/nikko-blog/Ryoukyo-1.jpeg" alt="Ryoukyo" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
-  <img src="/image/nikko-blog/Ryoukyo-2.jpeg" alt="Ryūokyō Gorge" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
-  <img src="/image/nikko-blog/Ryoukyo-3.jpeg" alt="Ryoukyo Station" style="flex: 1 1 18%; max-width: 18%; min-width: 120px;" />
 - Go back to Ryuokyo station, purchase base fare ticket for Shin Fujiwara & take train back to shin Fujiwara. Change train from shin Fujiwara to Shimo imachi and then to Tobu Nikko.
 - Call it a day, relax and go back to hotel. Have dinner and enjoy.  
 
